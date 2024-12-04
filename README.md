@@ -20,3 +20,23 @@ My prediction model showed promising accuracy in identifying individuals who mig
 
 
 In short, the project provides some initial clues about how social media affects mental health. More research is needed to dig deeper.
+
+
+
+# Project Name
+
+A brief description of your project.
+
+## Project Screenshots
+
+### Clustering
+![Clustering](Assets/Clustering.PNG)
+
+### Prediction Results
+![Prediction Results](Assets/Results.PNG)
+
+## Project Demo Video
+
+[![Watch the video](Assets/streamlit-Page-ScreenRecord.webm)
+
+---
